@@ -3,7 +3,7 @@
 ## Possible Procedure
 - Get a "[studentische Hilskraft](https://www.google.com/search?q=translate+studentische+Hilfskraft&oq=translate)", if possible with IT Background
 - Appoint the person to be the official QA/QR implementer in company, make sure all agree
-- QA/QR implementer goes through Checklist which probably will require several meetings
+- QA/QR implementer goes through Checklist.md which probably will require several meetings
 - Checklist is updated continuously and is under version control
 - Resulting "actions items" (who does what when) are also kept in writing and under version control
 - Result: QA/QR should be in a much better shape than before ;-)
