@@ -1,7 +1,7 @@
 # Implement Quality Control From Scratch in StartUp
 
 ## Possible Procedure
-- Get a "[studentische Hilskraft](https://www.google.com/search?q=translate+studentische+Hilfskraft&oq=translate)", if possible with IT Background
+- Get a talented "[studentische Hilfskraft](https://www.google.com/search?q=translate+studentische+Hilfskraft&oq=translate)", if possible with IT Background
 - Appoint the person to be the official QA/QR implementer in company, make sure all agree
 - QA/QR implementer goes through Checklist.md which probably will require several meetings
 - Checklist is updated continuously and is under version control

@@ -20,8 +20,12 @@
 - [ ] How many paid QC hours are available per month?
 - [ ] Is the budget stable?
 
+### Releases
+- [ ] What positive impact will have regular and reliable product releases have on clients?
+- [ ] What is our release cycle? How often do we want to release?
+
 ### Risk analysis
-- [ ] Create list - failure of what app functionalities will create the greatest damage and need to be therefore prioritized in testing
+- [ ] Create list. Aim: Failure of what functionalities will create the greatest damage and need to be therefore prioritized in testing?
 
 ### Testing Pyramid Implementation
 - [ ] Create immediately some happy path UI test cases and schedule regular execution of these
@@ -32,7 +36,6 @@
 
 ### Static Testing
 - [ ] Do QA/QR members review Product Specifications regularly so that possible ambiguities/contradictions/missing pieces can be caught very early?
-
 
 ### Black-box Testing aka Dynamic Testing
 - [ ] Create test cases which cover areas with highest risk
@@ -45,7 +48,7 @@
 
 
 ### Automated UI testing
-- [ ] Is it clear that “automating everything” is next to impossible?
+- [ ] Is it clear why “automating everything” is next to impossible?
 - [ ] Has analysis been conducted to find out what areas of app can be tested and which not?
 - [ ] Are there proof-of-concepts from this analysis phase?
 - [ ] How many work hours per month are there available to maintain the tests?
