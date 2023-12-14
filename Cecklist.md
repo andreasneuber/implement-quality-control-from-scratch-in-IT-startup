@@ -49,6 +49,7 @@
 
 ### Automated UI testing
 - [ ] Is it clear why “automating everything” is next to impossible?
+- [ ] Do we lean towards a "coded solution" or a "code-less solution"?
 - [ ] Has analysis been conducted to find out what areas of app can be tested and which not?
 - [ ] Are there proof-of-concepts from this analysis phase?
 - [ ] How many work hours per month are there available to maintain the tests?
