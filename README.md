@@ -1,4 +1,4 @@
-# Implement Quality Control From Scratch in StartUp
+# Implement Quality Control From Scratch in IT StartUp
 
 ## Possible Procedure
 - Get a talented "[studentische Hilfskraft](https://www.google.com/search?q=translate+studentische+Hilfskraft&oq=translate)", if possible with IT Background
