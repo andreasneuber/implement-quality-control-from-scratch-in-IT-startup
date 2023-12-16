@@ -46,7 +46,6 @@
 - [ ] Soak test app with high load for a week.
 - [ ] What is the contingency plan for unusual stress?
 
-
 ### Automated UI testing
 - [ ] Is it clear why “automating everything” is next to impossible?
 - [ ] Do we lean towards a "coded solution" or a "code-less solution"?

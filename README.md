@@ -13,3 +13,5 @@
 - [The Checklist Manifesto: How To Get Things Right ](https://www.amazon.de/-/en/Atul-Gawande-ebook/dp/B0037Z8SLI/ref=tmm_kin_swatch_0?_encoding=UTF8)
 - [The 2 Minute Tester: 33 Routines to make you a better tester](https://www.amazon.de/-/en/gp/product/B08SQZH82L/ref=ppx_yo_dt_b_d_asin_title_351_o04?ie=UTF8&psc=1)
 - [Test Automation: A manager's guide ](https://www.amazon.de/-/en/gp/product/B09FZL9HXT/ref=ppx_yo_dt_b_d_asin_title_351_o05?ie=UTF8&psc=1)
+- [The Blank Page Problem](https://thoughtbot.com/blog/the-blank-page-problem)
+- [The Physics of Productivity: Newton’s Laws of Getting Stuff Done](https://jamesclear.com/physics-productivity)
